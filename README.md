@@ -31,7 +31,7 @@
 1. 一覧に追加されます。
 
 ### イメージ
-!list.png!
+![イメージ](list.jpg)
 
 ### 参考サイト
 * http://nprogram.hatenablog.com/entry/2019/02/23/173011
