@@ -24,7 +24,14 @@
 
 1. Djangoのサーバーを起動する(```python manage.py runserver```)
 
-1.  Webブラウザで```http://localhost:8000/```を入力する。
+1.  Webブラウザで```http://localhost:8000/diary/```を入力する。
+
+### 使い方
+1. 追加ボタンを押します。タイトルと本文と日付を入力して送信ボタンを押してください。
+1. 一覧に追加されます。
+
+### イメージ
+!list.png!
 
 ### 参考サイト
 * http://nprogram.hatenablog.com/entry/2019/02/23/173011
